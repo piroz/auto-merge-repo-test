@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "xml2js": "0.4.0"
+  },
+  "devDependencies": {
+  }
+}
