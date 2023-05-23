@@ -3,7 +3,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "aws-amplify": "1.0.6"
+    "xml2js": "0.4.0"
   },
   "devDependencies": {
   }
