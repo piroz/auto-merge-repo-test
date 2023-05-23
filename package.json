@@ -3,7 +3,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "aws-sdk": "2.0.1"
+    "axios": "^0.1"
   },
   "devDependencies": {
   }
